@@ -1,14 +1,4 @@
-/***********************************************************
-Project  : T20
-Compiler : T20
-Version  : V1.0
-Created  : 2010-01-06
-Author   : Jason
-Description
-         Main function-
-Modified
-		 -
-************************************************************/
+
 #include "../typedef.h"
 
 #include "voltage.h"
